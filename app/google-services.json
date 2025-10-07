@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861094519933",
+    "project_id": "roots-e16ef",
+    "storage_bucket": "roots-e16ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861094519933:android:68de75c525a7889f273d14",
+        "android_client_info": {
+          "package_name": "com.example.root"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWEePr_2jEbCG4iHJEHk09zG4y_pdAFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
